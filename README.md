@@ -1,1 +1,3 @@
 # BetriebsurlaubSha4
+❯ sha256sum mailsend.zip
+2dbd4a96880e4779e76f77b9bb5929354cac8386f435eaed2e55fc6621436ca2  mailsend.zip
